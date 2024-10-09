@@ -3,6 +3,11 @@ title: "1 : Wireguard Setup"
 next: "2 : DNS Setup"
 ---
 
+> WireGuard® is a VPN (Virtual Private Network) software designed for simplicity and efficiency. It is distinguished by its small codebase, which aims to reduce complexity and potential security 
+> vulnerabilities, and offers faster performance compared to some other VPN solutions, due to its streamlined design.
+![wireguard](https://www.wireguard.com/img/wireguard.svg)
+[link to wireguard website](https://www.wireguard.com/)
+
 # I - Installation 
 ```terminal
 sudo apt update && apt upgrade -y
