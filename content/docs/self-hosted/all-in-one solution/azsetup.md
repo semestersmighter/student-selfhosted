@@ -16,7 +16,7 @@ When it comes to cloud computing, **Microsoft Azure** stands out as one of the m
 - **Cost-Effective**: Azure offers free services for students.
 
 {{< callout type="warning" >}}
-    Privacy Considerations
+  A **callout** is a short piece of text intended to attract attention.
 {{< /callout >}}
 
 **Ready to dive into Azure?** Let's get started with the setup process!
