@@ -1,5 +1,5 @@
 ---
-title: "2 : DNS Setup"
+title: "3 : DNS Setup"
 ---
 
 Coucou
