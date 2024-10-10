@@ -22,6 +22,8 @@ When it comes to cloud computing, **Microsoft Azure** stands out as one of the m
 
 **Ready to dive into Azure?** Let's get started with the setup process!
 
+## Prerequisites
+
 ### Step 1: Create an Azure Account/Sign In
 
 Go to the [Azure portal](https://portal.azure.com/) and sign in with your Microsoft account. If you don't have an account, you can create one for free.
