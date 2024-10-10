@@ -24,15 +24,15 @@ Are you a student looking to enhance your skills in system administration? Our c
 
 ### Before you start
 
-Follow our [setup guide](azsetup.md) to prepare your development environment in Azure.
+Follow our [setup guide](azsetup) to prepare your development environment in Azure.
 
 ### Step 2: Implement WireGuard
 
-Secure your connections with  [WireGuard setup guide](wireguardSetup.md).
+Secure your connections with  [WireGuard setup guide](wireguardsetup).
 
 ### Step 3: Configure DNS (BIND9)
 
-Learn how to configure BIND9 for DNS management. Check out our [DNS tutorial](DNSSetup.md).
+Learn how to configure BIND9 for DNS management. Check out our [DNS tutorial](dnssetup).
 
 ### Step 4: Deploy Nginx
 

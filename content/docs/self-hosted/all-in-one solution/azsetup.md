@@ -1,5 +1,5 @@
 ---
-title: "1 Azure setup"
+title: "1 : Azure setup"
 next: "2 : Wireguard Setup"
 ---
 
@@ -15,14 +15,11 @@ When it comes to cloud computing, **Microsoft Azure** stands out as one of the m
 
 - **Cost-Effective**: Azure offers free services for students.
 
-## Privacy Considerations
+{{< callout type="warning" >}}
+  ## Privacy Considerations
 
-While Azure is a powerful platform, it's essential to be aware of its privacy implications. As a cloud service, your data is stored on Microsoft’s servers, which may raise concerns for those who prioritize data privacy and security. **Do not store sensitive data on Azure**.
-
-## Getting Started
-
-In the following sections, we will guide you through the process of setting up your Azure environment, including creating virtual networks and deploying virtual machines.
-
----
+    While Azure is a powerful platform, it's essential to be aware of its privacy implications. As a cloud service, your data is stored on Microsoft’s servers, which may raise concerns for those who prioritize data privacy and security. **Do not store sensitive data on Azure**.
+{{< /callout >}}
 
 **Ready to dive into Azure?** Let's get started with the setup process!
+
