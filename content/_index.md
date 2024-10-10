@@ -1,9 +1,8 @@
 ---
-title: self hosted tips
+title: Student SysAdmin Guide
 toc: false
 ---
 
-This is the landing page.
 
 ## Explore
 
