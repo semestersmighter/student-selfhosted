@@ -1,6 +1,6 @@
 ---
 title: "All-in-One Solution for Students"
-next: "1 : Wireguard Setup"
+next: "Wireguard Setup"
 ---
 
 # Welcome to Your All-in-One Solution!

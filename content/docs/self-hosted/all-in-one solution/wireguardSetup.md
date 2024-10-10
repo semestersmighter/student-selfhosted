@@ -1,6 +1,6 @@
 ---
-title: "2 : Wireguard Setup"
-next: "3 : DNS Setup"
+title: "Wireguard Setup"
+next: "DNS Setup"
 ---
 
 > WireGuard® is a VPN (Virtual Private Network) software designed for simplicity and efficiency. It is distinguished by its small codebase, which aims to reduce complexity and potential security 

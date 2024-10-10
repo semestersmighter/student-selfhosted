@@ -1,6 +1,6 @@
 ---
-title: "1 : Azure setup"
-next: "2 : Wireguard Setup"
+title: "Azure setup"
+next: "Wireguard Setup"
 ---
 
 # Introduction to Azure Setup
