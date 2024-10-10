@@ -22,3 +22,12 @@ When it comes to cloud computing, **Microsoft Azure** stands out as one of the m
 
 **Ready to dive into Azure?** Let's get started with the setup process!
 
+### Step 1: Create an Azure Account/Sign In
+
+Go to the [Azure portal](https://portal.azure.com/) and sign in with your Microsoft account. If you don't have an account, you can create one for free.
+
+{{< callout type="info" >}}
+  Student accounts are eligible for free Azure services. Make sure to check the [Azure for Students](https://azure.microsoft.com/en-us/free/students/) page for more information.
+{{< /callout >}}
+
+![alt text](image-1.png)
