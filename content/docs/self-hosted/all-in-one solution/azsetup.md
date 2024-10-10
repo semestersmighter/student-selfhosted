@@ -16,7 +16,8 @@ When it comes to cloud computing, **Microsoft Azure** stands out as one of the m
 - **Cost-Effective**: Azure offers free services for students.
 
 {{< callout type="warning" >}}
-  A **callout** is a short piece of text intended to attract attention.
+  ## Privacy Considerations
+  While Azure is a powerful platform, it's essential to be aware of its privacy implications. As a cloud service, your data is stored on Microsoft’s servers, which may raise concerns for those who prioritize data privacy and security. **Do not store sensitive data on Azure**.
 {{< /callout >}}
 
 **Ready to dive into Azure?** Let's get started with the setup process!
