@@ -30,4 +30,4 @@ Go to the [Azure portal](https://portal.azure.com/) and sign in with your Micros
   Student accounts are eligible for free Azure services. Make sure to check the [Azure for Students](https://azure.microsoft.com/en-us/free/students/) page for more information.
 {{< /callout >}}
 
-![alt text](image-1.png)
+<img src="image.png" alt="Az sign-in"> 
